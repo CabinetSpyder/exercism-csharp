@@ -29,3 +29,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 6: Roll the die](https://github.com/CabinetSpyder/Ejercicio6--roll-the-die-CSharp)
 📄 **Descripción:** Learn about randomness by generation numbers in a game.
+
+### 🔹 [Ejercicio 7: Log Levesl](https://github.com/CabinetSpyder/Ejercicio7-log-levels-CSharp)
+📄 **Descripción:** Learn about strigns by processing logs.
