@@ -26,3 +26,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 5: Interest is Interesting](https://github.com/CabinetSpyder/Ejercicio5-interest-is-interesting-CSharp)
 📄 **Descripción:** Learn about floating point numbers by adding insters to savings accounts.
+
+### 🔹 [Ejercicio 6: Roll the die](https://github.com/CabinetSpyder/Ejercicio6--roll-the-die-CSharp)
+📄 **Descripción:** Learn about randomness by generation numbers in a game.
