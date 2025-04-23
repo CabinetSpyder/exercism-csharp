@@ -18,3 +18,5 @@ Cada repositorio cuenta con dos ramas:
 ### 🔹 [Ejercicio 2: Lasagna](https://github.com/CabinetSpyder/Ejercicio2-Lasagna-Csharp)
 📄 **Descripción:** Fortalecer conceptos básicos al hacer un programa que sigue los pasos de una receta de lasagna.
 
+### 🔹 [Ejercicio 3: Annalyn's Infiltration](https://github.com/CabinetSpyder/Ejercicio3-Annalyn-s-Infiltration-Csharp)
+📄 **Descripción:** Este ejercicio asienta las bases sobre los booleanos en C#.
