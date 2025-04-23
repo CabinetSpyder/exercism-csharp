@@ -14,3 +14,7 @@ Cada repositorio cuenta con dos ramas:
 ## 📌 Lista de Ejercicios
 ### 🔹 [Ejercicio 1: Helloworld en C#](https://github.com/CabinetSpyder/Ejercicio1-Hello-World-Csharp)
 📄 **Descripción:** Toma de contacto con el entorno de los test y el entorno C# en general.
+
+### 🔹 [Ejercicio 2: Lasagna](https://github.com/CabinetSpyder/Ejercicio2-Lasagna-Csharp)
+📄 **Descripción:** Fortalecer conceptos básicos al hacer un programa que sigue los pasos de una receta de lasagna.
+
