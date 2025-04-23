@@ -20,3 +20,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 3: Annalyn's Infiltration](https://github.com/CabinetSpyder/Ejercicio3-Annalyn-s-Infiltration-Csharp)
 📄 **Descripción:** Este ejercicio asienta las bases sobre los booleanos en C#.
+
+### 🔹 [Ejercicio 4: Cars, Assemble](https://github.com/CabinetSpyder/Ejercicio4-Cars-Assemble-CSharp)
+📄 **Descripción:** Learn about numbers by analizing the production of an assembly line.
