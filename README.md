@@ -39,3 +39,5 @@ Cada repositorio cuenta con dos ramas:
 ### 🔹 [Ejercicio 9: Bird Watcher](https://github.com/CabinetSpyder/Ejercicio9-bird-watcher-CSharp)
 📄 **Descripción:** Learn about arrays by keeping track of how many birds visit your garden
 
+### 🔹 [Ejercicio 10: Squeaky Clean](https://github.com/CabinetSpyder/Ejercicio10-squeaky-clean-CSharp)
+📄 **Descripción:** Learn about characters ans StringBuilder by cleaning strings
