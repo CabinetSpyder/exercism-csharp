@@ -36,5 +36,6 @@ Cada repositorio cuenta con dos ramas:
 ### 🔹 [Ejercicio 8: Jedlink´s Toy](https://github.com/CabinetSpyder/Ejercicio8-jedliks-toys-CSharp)
 📄 **Descripción:** Learn about clases by working on a remote controlled car.
 
-
+### 🔹 [Ejercicio 9: Bird Watcher](https://github.com/CabinetSpyder/Ejercicio9-bird-watcher-CSharp)
+📄 **Descripción:** Learn about arrays by keeping track of how many birds visit your garden
 
