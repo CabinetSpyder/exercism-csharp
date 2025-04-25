@@ -32,3 +32,9 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 7: Log Levesl](https://github.com/CabinetSpyder/Ejercicio7-log-levels-CSharp)
 📄 **Descripción:** Learn about strigns by processing logs.
+
+### 🔹 [Ejercicio 8: Jedlink´s Toy](https://github.com/CabinetSpyder/Ejercicio8-jedliks-toys-CSharp)
+📄 **Descripción:** Learn about clases by working on a remote controlled car.
+
+
+
