@@ -1,4 +1,4 @@
-# 🏆 exercism-csharp
+a# 🏆 exercism-csharp
 Este repositorio contiene mis soluciones a los ejercicios del track de **C# en [Exercism.io](https://exercism.org/tracks/csharp)**. Es parte de mi camino de aprendizaje hacia el desarrollo en .NET y C#.
 
 
@@ -41,3 +41,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 10: Squeaky Clean](https://github.com/CabinetSpyder/Ejercicio10-squeaky-clean-CSharp)
 📄 **Descripción:** Learn about characters ans StringBuilder by cleaning strings
+
+### 🔹 [Ejercicio 11: Need for Speed](https://github.com/CabinetSpyder/Ejercicio11-need-for-speed-CSharp)
+📄 **Descripción:** Learn about classes by creating cars
