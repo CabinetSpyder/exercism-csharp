@@ -45,6 +45,8 @@ Cada repositorio cuenta con dos ramas:
 ### 🔹 [Ejercicio 11: Need for Speed](https://github.com/CabinetSpyder/Ejercicio11-need-for-speed-CSharp)
 📄 **Descripción:** Learn about classes by creating cars
 
-### 🔹 [Ejercicio 12: Booking Up for Beauty](https://github.com/CabinetSpyder/Ejercicio12-https-exercism.org-tracks-csharp-exercises-booking-up-for-beauty-CSharp)
-📄 **Descripción:** Learn about the DateTime class by working on an appoiment shceduler for a beauty salon.
+### 🔹 [Ejercicio 12: Wizards and Warriors](https://github.com/CabinetSpyder/Ejercicio13-wizards-and-warriors-CSharp)
+📄 **Descripción:** Learn about Inheritance by creating an RPG
+
+
 
