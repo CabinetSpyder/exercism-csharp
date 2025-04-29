@@ -54,3 +54,6 @@ Cada repositorio cuenta con dos ramas:
 ### 🔹 [Ejercicio 14: Hyper-optimized Telemetry](https://github.com/CabinetSpyder/Ejercicio14-hyper-optimized-telemetry-Csharp)
 📄 **Descripción:** Learn about bit conversion by implementing a message protocol
 
+### 🔹 [Ejercicio 15: Log Analysis](https://github.com/CabinetSpyder/Ejercicio15-log-analysis-CSharp)
+📄 **Descripción:** Learn about extension methods by analysing logs
+
