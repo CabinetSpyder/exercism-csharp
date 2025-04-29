@@ -60,3 +60,6 @@ Cada repositorio cuenta con dos ramas:
 ### 🔹 [Ejercicio 16: phone number analysis](https://github.com/CabinetSpyder/Ejercicio16-phone-number-analysis-CSharp)
 📄 **Descripción:** Learn about tuples by analysing phone numbers
 
+### 🔹 [Ejercicio 17: Tracks on Tracks on Tracks](https://github.com/CabinetSpyder/Ejercicio17-tracks-on-tracks-on-tracks-Charp)
+📄 **Descripción:** Learn about list by keeping track of programming languajes you want to learn.
+
