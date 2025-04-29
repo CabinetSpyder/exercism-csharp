@@ -57,3 +57,6 @@ Cada repositorio cuenta con dos ramas:
 ### 🔹 [Ejercicio 15: Log Analysis](https://github.com/CabinetSpyder/Ejercicio15-log-analysis-CSharp)
 📄 **Descripción:** Learn about extension methods by analysing logs
 
+### 🔹 [Ejercicio 16: phone number analysis](https://github.com/CabinetSpyder/Ejercicio16-phone-number-analysis-CSharp)
+📄 **Descripción:** Learn about tuples by analysing phone numbers
+
