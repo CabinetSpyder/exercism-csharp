@@ -63,3 +63,8 @@ Cada repositorio cuenta con dos ramas:
 ### 🔹 [Ejercicio 17: Tracks on Tracks on Tracks](https://github.com/CabinetSpyder/Ejercicio17-tracks-on-tracks-on-tracks-Charp)
 📄 **Descripción:** Learn about list by keeping track of programming languajes you want to learn.
 
+### 🔹 [Ejercicio 18: International Calling Connoisseur](https://github.com/CabinetSpyder/Ejercicio18-international-calling-connoisseur-CSharp)
+📄 **Descripción:** Learn about dictionaries by keeping track of international dialling codes
+
+### 🔹 [Ejercicio 19: Tim from Marketing](https://github.com/CabinetSpyder/Ejercicio19-tim-from-marketing-CSharp)
+📄 **Descripción:** Learn about nullables by printing names badges.
