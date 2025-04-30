@@ -68,3 +68,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 19: Tim from Marketing](https://github.com/CabinetSpyder/Ejercicio19-tim-from-marketing-CSharp)
 📄 **Descripción:** Learn about nullables by printing names badges.
+
+### 🔹 [Ejercicio 20: Football Match Reports](https://github.com/CabinetSpyder/Ejercicio20-football-match-reports-CSharp)
+📄 **Descripción:** Learn about switches by developing a system to report on soccer matches
