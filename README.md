@@ -74,3 +74,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 21: Logs, Logs, Logs!](https://github.com/CabinetSpyder/Ejercicio21-logs-logs-logs-CSharp)
 📄 **Descripción:** Learn about enums by parsing logs
+
+### 🔹 [Ejercicio 22: Calculator Conundrum](https://github.com/CabinetSpyder/Ejercicio22-calculator-conundrum-CSharp)
+📄 **Descripción:** Learn about error handling by working on a simple calculator
