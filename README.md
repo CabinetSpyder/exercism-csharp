@@ -77,3 +77,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 22: Calculator Conundrum](https://github.com/CabinetSpyder/Ejercicio22-calculator-conundrum-CSharp)
 📄 **Descripción:** Learn about error handling by working on a simple calculator
+
+### 🔹 [Ejercicio 23: Secure Munchester United](https://github.com/CabinetSpyder/Ejercicio23-secure-munchester-united-CSharp)
+📄 **Descripción:** Learn about casting by creating securitry passes
