@@ -71,3 +71,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 20: Football Match Reports](https://github.com/CabinetSpyder/Ejercicio20-football-match-reports-CSharp)
 📄 **Descripción:** Learn about switches by developing a system to report on soccer matches
+
+### 🔹 [Ejercicio 21: Logs, Logs, Logs!](https://github.com/CabinetSpyder/Ejercicio21-logs-logs-logs-CSharp)
+📄 **Descripción:** Learn about enums by parsing logs
