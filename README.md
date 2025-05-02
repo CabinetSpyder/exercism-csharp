@@ -80,3 +80,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 23: Secure Munchester United](https://github.com/CabinetSpyder/Ejercicio23-secure-munchester-united-CSharp)
 📄 **Descripción:** Learn about casting by creating securitry passes
+
+### 🔹 [Ejercicio 24: Attack of the Trolls](https://github.com/CabinetSpyder/Ejercicio24-Attack-of-the-Trolls-CSharp)
+📄 **Descripción:** Learn about flag enumerations by checking permissions of user accounts on an internet forum
