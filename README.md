@@ -83,3 +83,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 24: Attack of the Trolls](https://github.com/CabinetSpyder/Ejercicio24-Attack-of-the-Trolls-CSharp)
 📄 **Descripción:** Learn about flag enumerations by checking permissions of user accounts on an internet forum
+
+### 🔹 [Ejercicio 25: Hyperinflation Hits Hyperia](https://github.com/CabinetSpyder/Ejercicio25-hyperinflation-hits-hyperia-CSharp)
+📄 **Descripción:** Learn about arithmetic overflow by dealing with hyperinflaction.
