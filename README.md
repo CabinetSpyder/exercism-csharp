@@ -86,3 +86,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 25: Hyperinflation Hits Hyperia](https://github.com/CabinetSpyder/Ejercicio25-hyperinflation-hits-hyperia-CSharp)
 📄 **Descripción:** Learn about arithmetic overflow by dealing with hyperinflaction.
+
+### 🔹 [Ejercicio 26: Weighing Machine](https://github.com/CabinetSpyder/Ejercicio26-weighing-machine-CSharp)
+📄 **Descripción:** Learn about properties by modelling a weighing machine.
