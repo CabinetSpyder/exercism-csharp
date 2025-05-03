@@ -89,3 +89,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 26: Weighing Machine](https://github.com/CabinetSpyder/Ejercicio26-weighing-machine-CSharp)
 📄 **Descripción:** Learn about properties by modelling a weighing machine.
+
+### 🔹 [Ejercicio 27: The weather in deather](https://github.com/CabinetSpyder/Ejercicio27-the-weather-in-deather-CSharp)
+📄 **Descripción:** Learn about expressions by improving legacy code.
