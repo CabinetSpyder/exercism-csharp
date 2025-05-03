@@ -1,4 +1,4 @@
-a# 🏆 exercism-csharp
+# 🏆 exercism-csharp
 Este repositorio contiene mis soluciones a los ejercicios del track de **C# en [Exercism.io](https://exercism.org/tracks/csharp)**. Es parte de mi camino de aprendizaje hacia el desarrollo en .NET y C#.
 
 
