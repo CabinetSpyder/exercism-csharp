@@ -95,3 +95,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 28: Remote control competition](https://github.com/CabinetSpyder/Ejercicio28-remote-control-competition-CSharp)
 📄 **Descripción:** Learn about interfaces by working on cars.
+
+### 🔹 [Ejercicio 29: Leap year]()
+📄 **Descripción:** Determine whether a given year is a leap year.
