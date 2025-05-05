@@ -92,3 +92,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 27: The weather in deather](https://github.com/CabinetSpyder/Ejercicio27-the-weather-in-deather-CSharp)
 📄 **Descripción:** Learn about expressions by improving legacy code.
+
+### 🔹 [Ejercicio 28: Remote control competition](https://github.com/CabinetSpyder/Ejercicio28-remote-control-competition-CSharp)
+📄 **Descripción:** Learn about interfaces by working on cars.
