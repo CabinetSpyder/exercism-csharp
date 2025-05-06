@@ -101,3 +101,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 30: Rotational Cipher](https://github.com/CabinetSpyder/Ejercicio30-rotational-cipher-CSharp)
 📄 **Descripción:** Create an implementation of the rotational cipher, also sometimes called the Caesar cipher.
+
+### 🔹 [Ejercicio 31: Bob](https://github.com/CabinetSpyder/Ejercicio31-bob-CSharp)
+📄 **Descripción:** Bob is a lackadaisical teenager. In converstion, his responses are very limited
