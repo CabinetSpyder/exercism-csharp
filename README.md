@@ -107,3 +107,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 32: Pangram](https://github.com/CabinetSpyder/Ejercicio32-pangram-CSharp)
 📄 **Descripción:** Determine if a sentence is a pangram.
+
+### 🔹 [Ejercicio 33: Isogram](https://github.com/CabinetSpyder/Ejercicio33-isogram-CSharp)
+📄 **Descripción:** Determine if a word or phrase is an isogram.
