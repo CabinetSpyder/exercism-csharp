@@ -114,3 +114,5 @@ Cada repositorio cuenta con dos ramas:
 ### 🔹 [Ejercicio 34: Acronym](https://github.com/CabinetSpyder/Ejercicio34-acronym-CSharp)
 📄 **Descripción:** Convert a phrase to its acronym.
 
+### 🔹 [Ejercicio 35: Anagram](https://github.com/CabinetSpyder/Ejercicio35-anagram-CSharp)
+📄 **Descripción:** Given a word and a list of possible anagrams, select the correct sublist.
