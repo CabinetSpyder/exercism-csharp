@@ -110,3 +110,7 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 33: Isogram](https://github.com/CabinetSpyder/Ejercicio33-isogram-CSharp)
 📄 **Descripción:** Determine if a word or phrase is an isogram.
+
+### 🔹 [Ejercicio 34: Acronym](https://github.com/CabinetSpyder/Ejercicio34-acronym-CSharp)
+📄 **Descripción:** Convert a phrase to its acronym.
+
