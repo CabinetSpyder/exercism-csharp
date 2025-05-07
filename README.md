@@ -104,3 +104,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 31: Bob](https://github.com/CabinetSpyder/Ejercicio31-bob-CSharp)
 📄 **Descripción:** Bob is a lackadaisical teenager. In converstion, his responses are very limited
+
+### 🔹 [Ejercicio 32: Pangram](https://github.com/CabinetSpyder/Ejercicio32-pangram-CSharp)
+📄 **Descripción:** Determine if a sentence is a pangram.
