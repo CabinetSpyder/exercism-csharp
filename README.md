@@ -125,3 +125,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 38: Accumulate](https://github.com/CabinetSpyder/Ejercicio38-accumulate-CSharp)
 📄 **Descripción:** Implement the accumulate operation, which, given a collection and an operation to perform on each element of the collection, returns a new collection containing the result of applying that operation to each element of the input collection.
+
+### 🔹 [Ejercicio 39: Roman Numerals](https://github.com/CabinetSpyder/Ejercicio39-roman-numerals-CSharp)
+📄 **Descripción:** Convert modern Arabic numbers into Roman numerals.
