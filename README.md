@@ -119,3 +119,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 36: Run-length encoding](https://github.com/CabinetSpyder/Ejercicio36-run-length-encoding-CSharp)
 📄 **Descripción:** Implement run-length encoding and decoding.
+
+### 🔹 [Ejercicio 37: Reverse String](https://github.com/CabinetSpyder/Ejercicio37-reverse-string-CSharp)
+📄 **Descripción:** Reverse a given string
