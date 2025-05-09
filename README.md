@@ -116,3 +116,6 @@ Cada repositorio cuenta con dos ramas:
 
 ### 🔹 [Ejercicio 35: Anagram](https://github.com/CabinetSpyder/Ejercicio35-anagram-CSharp)
 📄 **Descripción:** Given a word and a list of possible anagrams, select the correct sublist.
+
+### 🔹 [Ejercicio 36: Run-length encoding](https://github.com/CabinetSpyder/Ejercicio36-run-length-encoding-CSharp)
+📄 **Descripción:** Implement run-length encoding and decoding.
